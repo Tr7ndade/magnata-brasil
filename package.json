@@ -1,0 +1,16 @@
+{
+  "name": "magnata-brasil",
+  "version": "1.0.0",
+  "description": "Jogo de tabuleiro online estilo Business Tour com cidades do Brasil, para 2 a 6 jogadores.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
